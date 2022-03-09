@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
+- 👨‍💻 All of my projects are available at <a href="https://rajprem.me">Prem Portfolio</a>
 
 - 📫 How to reach me **rajprem4214@gmail.com**
 
