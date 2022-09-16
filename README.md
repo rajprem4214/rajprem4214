@@ -7,11 +7,11 @@
 
 
 ```bash
-I am an Information Science engineering student at NMIT in Bangalore who specialises in Full Stack Blockchain Development and 
-Competitive Programming.
+I am an Information Science engineering student at NMIT in Bangalore who specialises in Full Stack Blockchain Development 
+and Competitive Programming.
 I'm passionate about software development and have a wide range of talents, from the MERN stack to a firm grasp of data 
-structures 
-and algorithms. I also have a passion for open source work and have participated in projects like GirlScript Summer Of Code
+structures and algorithms. 
+I also have a passion for open source work and have participated in projects like GirlScript Summer Of Code
 2022 and Social Summer of Code'22.
 I organised technical seminars to teach students to different tech stacks as the leader of the web/app 
 development club at my institution. Through the Microsoft Intern Engage Program'22, I just received a direct internship 
