@@ -1,5 +1,6 @@
 <!-- ![LinkedIn Banner V1 1](https://user-images.githubusercontent.com/85401522/190629275-f6bf3380-0ce4-4481-9601-09498bf932df.png) -->
-![LinkedIn Banne](https://user-images.githubusercontent.com/85401522/190630236-6c54ca50-4ca1-4431-9dfd-a7905fddc0a8.png)
+![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Prem Raj</h1>
 <!-- <p align="center">===========================================================================================</p> -->
 
