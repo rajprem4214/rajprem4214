@@ -4,12 +4,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Prem Raj</h1>
 <!-- <p align="center">===========================================================================================</p> -->
 
-<h3 align="center">Upcoming SWE Intern @Microsoft'23 | Full Stack Blockchain Developer</h3>
+<h3 align="center">Upcoming SWE Intern @Microsoft'23 | Full Stack Developer | CP</h3>
 
 
 ```bash
-I am an Information Science engineering student at NMIT in Bangalore who specialises in Full Stack Blockchain Development 
-and Competitive Programming.
+I am an Information Science engineering student at NMIT in Bangalore, with deep interest in Competitive Programming 
+and Full Stack Development.
 I'm passionate about software development and have a wide range of talents, from the MERN stack to a firm grasp of data 
 structures and algorithms. 
 I also have a passion for open source work and have participated in projects like GirlScript Summer Of Code
@@ -24,7 +24,7 @@ offer for a SWE post at Microsoft.
 * 🖥️  See my portfolio at [Rajprem4214](http://rajprem.me)
 * 🚀  I'm currently working on [Full Stack Development](http://github.com/rajprem4214)
 * 🤝  I'm open to collaborating on Open Source Projects, Hackathons.
-* ⚡  Wrong Answer On Pretest 2
+* ⚡  Google " Rajprem4214 " to know more about me.
 
 <a href="https://www.twitter.com/rajprem4214" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rajprem4214?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
