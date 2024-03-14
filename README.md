@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Prem Raj</h1>
 <!-- <p align="center">===========================================================================================</p> -->
 
-<h3 align="center">SDE Intern @Microsoft'23 | Full Stack Developer | CP</h3>
+<h3 align="center">Ex-SDE Intern @Microsoft'23 | Full Stack Developer | CP</h3>
 
 
 ```bash
@@ -13,17 +13,12 @@ allows me to create engaging products and user experiences. Skilled in C/C++, Ja
 along with some experience on real world software projects. With excellent communication skills, I am also a great team player 
 and a self-starter that likes to engage in a logical thinking approach to problem solving.
 
-- SDE Intern @Microsoft'23
-- Pre-Final Year Undergrad at NMIT
-- Full Stack Development
-
 ⚡ Feel free to ping me, if you lookin' for a teammate.
 ```
 * 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [Rajprem4214](http://rajprem.me)
+* 🖥️  See my portfolio at [Prem Raj](https://premraj.vercel.app)
 * 🚀  I'm currently working on [Full Stack Development](http://github.com/rajprem4214)
 * 🤝  I'm open to collaborating on Open Source Projects, Hackathons.
-* ⚡  Google " Rajprem4214 " to know more about me.
 
 <a href="https://www.twitter.com/rajprem4214" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rajprem4214?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
