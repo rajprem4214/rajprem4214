@@ -6,9 +6,6 @@
 
 # 👋 Prem Raj
 <p>
-<a href="https://instagram.com/prem.code">
-  <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/instagram.svg" >
-</a>
 <a href="https://www.linkedin.com/in/rajprem4214/">
   <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/linkedin.svg" >
 </a>
