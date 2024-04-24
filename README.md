@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Prem Raj</h1>
 <!-- <p align="center">===========================================================================================</p> -->
 
-<h3 align="center">Ex-SDE Intern @Microsoft'23 | Full Stack Developer | CP</h3>
+<h3 align="center">Full Stack Dev</h3>
 
 
 ```bash
