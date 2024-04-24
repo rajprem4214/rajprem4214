@@ -19,11 +19,6 @@ and a self-starter that likes to engage in a logical thinking approach to proble
 * 🚀  I'm currently working on [Full Stack Development](http://github.com/rajprem4214)
 * 🤝  I'm open to collaborating on Open Source Projects, Hackathons.
 
-<a href="https://www.twitter.com/rajprem4214" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rajprem4214?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a><a href="https://www.github.com/rajprem4214" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rajprem4214?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-<img src="https://img.shields.io/github/stars/rajprem4214?affiliations=OWNER&style=for-the-badge" />
 
 
 ### Tech Stack :
