@@ -12,6 +12,9 @@
 <a href="https://twitter.com/premcodes">
   <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/twitter.svg" >
 </a>
+  <a href="https://instagram.com/prem.code">
+  <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/instagram.svg" >
+</a>
 </p>
 
 <p>
