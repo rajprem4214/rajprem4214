@@ -21,7 +21,7 @@
 
 </p>
 
-#### I'm a full-stack developer. I'm proficient in building scalable systems.
+#### I'm a full-stack dev and proficient in building scalable systems.
 
 ### Tech Stack :
 
